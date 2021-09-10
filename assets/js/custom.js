@@ -1,0 +1,1 @@
+$('.login_row').delay(4000).fadeOut('slow');
